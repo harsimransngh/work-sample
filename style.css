@@ -1,4 +1,4 @@
-/* General Styles */
+/* General Style */
 * {
     text-transform: capitalize;
 }
@@ -128,7 +128,7 @@ figcaption p {
     transform: translateY(0); 
 }
 
-/* Button Styling */
+/* Button Style */
 .btn {
     display: inline-block;
     background-color: #3c88d2;
@@ -147,7 +147,7 @@ figcaption p {
     transform: translateY(-3px);
 }
 
-/* Responsive Styles */
+/* Responsive Style */
 @media (max-width: 768px) {
     .grid {
         grid-template-columns: repeat(2, 1fr);
